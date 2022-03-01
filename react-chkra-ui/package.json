@@ -1,0 +1,23 @@
+{
+  "name": "react-chkra-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "9.5.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.8",
+    "@types/react": "17.0.5",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.1.0",
+    "typescript": "4.5.5"
+  }
+}
